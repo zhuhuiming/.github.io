@@ -1,3 +1,3 @@
 # zhuhuiming.github.io
 My blog
-./editor.md "测试博客"
+测试博客[点击查看](./test.md "Editor.md")
